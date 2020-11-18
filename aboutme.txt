@@ -1,1 +1,3 @@
 Hello, my name is Awele.
+i am learning from Dufuna.
+we are currently learning git.
